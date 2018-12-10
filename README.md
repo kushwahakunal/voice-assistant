@@ -39,3 +39,9 @@ Mycroft will Speak
 
 ### Complete Docuemntation
 https://mycroft.ai/documentation/linux/
+
+### Mycroft resources.
+- https://mycroft.ai/
+- Code : https://github.com/MycroftAI/mycroft-core
+- Skills: https://github.com/MycroftAI/mycroft-skills
+- Guide to develop new Skills : https://mycroft.ai/documentation/skills/introduction-developing-skills/
