@@ -37,6 +37,10 @@ Mycroft will Speak
 
 - Once paired, you can then use basic Skills.
 
+#### Installation Video
+
+[![Watch the video](https://img.youtube.com/vi/Q964VLJhY4w/maxresdefault.jpg)](https://youtu.be/Q964VLJhY4w)
+
 ### Complete Docuemntation
 https://mycroft.ai/documentation/linux/
 
